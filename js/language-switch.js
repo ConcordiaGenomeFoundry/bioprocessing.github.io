@@ -71,8 +71,10 @@
     text_boss1: "Director",
     text_boss2: "Director",
     text_LK_title: "Supervisor, Bioprocessing Facility",
+    text_RO_title: "Supervisor, Bioprocessing Facility",
     text_NG_title: "Senior Advisor, Business Development & Partnerships Engagement",
     text_AM_title: "Manager, Research Operations",
+
 
     <!-- pricing.html text -->
     title_pricing: "Competitive Pricing for Startups and Academics",
@@ -170,6 +172,7 @@
     text_boss1: "Directeur",
     text_boss2: "Directeur",
     text_LK_title: "Superviseur de l'installation de biotraitement",
+    text_RO_title: "Superviseur de l'installation de biotraitement",
     text_NG_title: "Conseiller principal- Développement des affaires et engagement des partenaires",
     text_AM_title: "Chef des activités de recherche",
 
